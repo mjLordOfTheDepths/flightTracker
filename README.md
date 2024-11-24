@@ -8,7 +8,7 @@ This piece of software hopes to solve this problem by issuing regular updates re
 ### In order to use this software, you must have Rust installed on your system and a valid Aviation Stack API Key.
 1. Clone the repo 
     ```bash
-   git clone https://github.com/username/portfolio.
+   git clone https://github.com/mjLordOfTheDepths/flightTracker.git
    cd flightTracker
 3. Go to src, main.rs, and add your api key to the api_key variable. Additionally, alter the variable "t" to suit your preferences. By default, the value is set to 5 [minutes].
 4. Compile the software 
